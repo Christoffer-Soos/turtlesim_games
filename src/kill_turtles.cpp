@@ -17,6 +17,8 @@ const float kill_distance = 0.1;
 
 std::cout "U gay" std::endl;
 
+// Kristoffer er ultra gay
+
 void kill_turtle(int n)
 {
     std::stringstream ss;
