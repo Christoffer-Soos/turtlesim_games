@@ -15,6 +15,8 @@ ros::NodeHandle * p_node_handle;
 turtlesim::Pose turtle2_pose;
 const float kill_distance = 0.1;
 
+std::cout "U gay" std::endl;
+
 void kill_turtle(int n)
 {
     std::stringstream ss;
